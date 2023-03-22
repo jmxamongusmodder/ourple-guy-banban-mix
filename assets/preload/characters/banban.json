@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				121,
+				-4
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "banban left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				133,
+				-150
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "banban down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-38,
+				150
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "banban up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-190,
+				14
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "banban right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "banban idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				58
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "banban hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BANBAN",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "ban",
+	"flip_x": false,
+	"healthbar_colors": [
+		220,
+		41,
+		60
+	],
+	"camera_position": [
+		-100,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

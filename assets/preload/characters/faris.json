@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-19,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "faris idle"
+		},
+		{
+			"offsets": [
+				50,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "faris left"
+		},
+		{
+			"offsets": [
+				-3,
+				-195
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "faris down"
+		},
+		{
+			"offsets": [
+				-91,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "faris up"
+		},
+		{
+			"offsets": [
+				-112,
+				-112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "faris right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/faris",
+	"position": [
+		-50,
+		210
+	],
+	"healthicon": "ghepo",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		121,
+		254
+	],
+	"camera_position": [
+		-30,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

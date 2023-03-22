@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GJ left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GJ down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				183,
+				210
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GJ up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GJ right"
+		},
+		{
+			"offsets": [
+				30,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "GJ idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/golden_jumbo_josh",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "golden",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		175,
+		80
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

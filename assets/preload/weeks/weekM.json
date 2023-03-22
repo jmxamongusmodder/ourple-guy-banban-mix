@@ -1,0 +1,59 @@
+{
+	"storyName": "Garten of banban",
+	"difficulties": "easy, hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"banban",
+			"ban",
+			[
+				255,
+				35,
+				53
+			]
+		],
+		[
+			"live",
+			"dawko",
+			[
+				141,
+				3,
+				163
+			]
+		],
+		[
+			"bite",
+			"jumbo_josh",
+			[
+				121,
+				183,
+				83
+			]
+		],
+		[
+			"brothers",
+			"ghepo",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Garten of banban",
+	"hiddenUntilUnlocked": false
+}

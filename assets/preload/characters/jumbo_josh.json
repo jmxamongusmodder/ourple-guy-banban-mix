@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				210,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "JJ idle"
+		},
+		{
+			"offsets": [
+				180,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "JJ down"
+		},
+		{
+			"offsets": [
+				210,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "JJ up"
+		},
+		{
+			"offsets": [
+				110,
+				-270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "JJ left"
+		},
+		{
+			"offsets": [
+				240,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "JJ right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jumbo_josh",
+	"position": [
+		100,
+		-130
+	],
+	"healthicon": "jumbo_josh",
+	"flip_x": true,
+	"healthbar_colors": [
+		75,
+		155,
+		15
+	],
+	"camera_position": [
+		-700,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 2.2
+}

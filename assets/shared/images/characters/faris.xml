@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="faris.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="faris down0000" x="30" y="30" width="316" height="130" frameX="0" frameY="-40" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris down0001" x="30" y="30" width="316" height="130" frameX="0" frameY="-40" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris down0002" x="376" y="30" width="295" height="170" frameX="-10" frameY="0" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris down0003" x="376" y="30" width="295" height="170" frameX="-10" frameY="0" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris down0004" x="701" y="30" width="316" height="160" frameX="0" frameY="-10" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris down0005" x="701" y="30" width="316" height="160" frameX="0" frameY="-10" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris down0006" x="701" y="30" width="316" height="160" frameX="0" frameY="-10" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris down0007" x="701" y="30" width="316" height="160" frameX="0" frameY="-10" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris down0008" x="701" y="30" width="316" height="160" frameX="0" frameY="-10" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris down0009" x="701" y="30" width="316" height="160" frameX="0" frameY="-10" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris down0010" x="701" y="30" width="316" height="160" frameX="0" frameY="-10" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris down0011" x="701" y="30" width="316" height="160" frameX="0" frameY="-10" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris down0012" x="701" y="30" width="316" height="160" frameX="0" frameY="-10" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris down0013" x="701" y="30" width="316" height="160" frameX="0" frameY="-10" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris down0014" x="701" y="30" width="316" height="160" frameX="0" frameY="-10" frameWidth="316" frameHeight="170"/>
+	<SubTexture name="faris idle0000" x="1047" y="30" width="265" height="153" frameX="0" frameY="-67" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris idle0001" x="1047" y="30" width="265" height="153" frameX="0" frameY="-67" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris idle0002" x="1342" y="30" width="230" height="173" frameX="-29" frameY="-47" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris idle0003" x="1342" y="30" width="230" height="173" frameX="-29" frameY="-47" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris idle0004" x="1602" y="30" width="172" height="182" frameX="-67" frameY="-37" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris idle0005" x="1602" y="30" width="172" height="182" frameX="-67" frameY="-37" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris idle0006" x="1804" y="30" width="178" height="214" frameX="-62" frameY="-7" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris idle0007" x="1804" y="30" width="178" height="214" frameX="-62" frameY="-7" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris idle0008" x="30" y="274" width="172" height="220" frameX="-67" frameY="0" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris idle0009" x="30" y="274" width="172" height="220" frameX="-67" frameY="0" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris idle0010" x="30" y="274" width="172" height="220" frameX="-67" frameY="0" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris idle0011" x="30" y="274" width="172" height="220" frameX="-67" frameY="0" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris idle0012" x="30" y="274" width="172" height="220" frameX="-67" frameY="0" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris idle0013" x="30" y="274" width="172" height="220" frameX="-67" frameY="0" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris idle0014" x="30" y="274" width="172" height="220" frameX="-67" frameY="0" frameWidth="265" frameHeight="221"/>
+	<SubTexture name="faris left0000" x="232" y="274" width="281" height="220" frameX="0" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris left0001" x="232" y="274" width="281" height="220" frameX="0" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris left0002" x="543" y="274" width="212" height="220" frameX="-70" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris left0003" x="543" y="274" width="212" height="220" frameX="-70" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris left0004" x="785" y="274" width="190" height="220" frameX="-92" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris left0005" x="785" y="274" width="190" height="220" frameX="-92" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris left0006" x="1005" y="274" width="195" height="220" frameX="-87" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris left0007" x="1005" y="274" width="195" height="220" frameX="-87" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris left0008" x="1005" y="274" width="195" height="220" frameX="-87" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris left0009" x="1005" y="274" width="195" height="220" frameX="-87" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris left0010" x="1005" y="274" width="195" height="220" frameX="-87" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris left0011" x="1005" y="274" width="195" height="220" frameX="-87" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris left0012" x="1005" y="274" width="195" height="220" frameX="-87" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris left0013" x="1005" y="274" width="195" height="220" frameX="-87" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris left0014" x="1005" y="274" width="195" height="220" frameX="-87" frameY="0" frameWidth="282" frameHeight="220"/>
+	<SubTexture name="faris right0000" x="1230" y="274" width="237" height="220"/>
+	<SubTexture name="faris right0001" x="1230" y="274" width="237" height="220"/>
+	<SubTexture name="faris right0002" x="1497" y="274" width="213" height="220" frameX="0" frameY="0" frameWidth="237" frameHeight="220"/>
+	<SubTexture name="faris right0003" x="1497" y="274" width="213" height="220" frameX="0" frameY="0" frameWidth="237" frameHeight="220"/>
+	<SubTexture name="faris right0004" x="1740" y="274" width="217" height="220" frameX="0" frameY="0" frameWidth="237" frameHeight="220"/>
+	<SubTexture name="faris right0005" x="1740" y="274" width="217" height="220" frameX="0" frameY="0" frameWidth="237" frameHeight="220"/>
+	<SubTexture name="faris right0006" x="1740" y="274" width="217" height="220" frameX="0" frameY="0" frameWidth="237" frameHeight="220"/>
+	<SubTexture name="faris right0007" x="1740" y="274" width="217" height="220" frameX="0" frameY="0" frameWidth="237" frameHeight="220"/>
+	<SubTexture name="faris right0008" x="1740" y="274" width="217" height="220" frameX="0" frameY="0" frameWidth="237" frameHeight="220"/>
+	<SubTexture name="faris right0009" x="1740" y="274" width="217" height="220" frameX="0" frameY="0" frameWidth="237" frameHeight="220"/>
+	<SubTexture name="faris right0010" x="1740" y="274" width="217" height="220" frameX="0" frameY="0" frameWidth="237" frameHeight="220"/>
+	<SubTexture name="faris right0011" x="1740" y="274" width="217" height="220" frameX="0" frameY="0" frameWidth="237" frameHeight="220"/>
+	<SubTexture name="faris right0012" x="1740" y="274" width="217" height="220" frameX="0" frameY="0" frameWidth="237" frameHeight="220"/>
+	<SubTexture name="faris right0013" x="1740" y="274" width="217" height="220" frameX="0" frameY="0" frameWidth="237" frameHeight="220"/>
+	<SubTexture name="faris right0014" x="1740" y="274" width="217" height="220" frameX="0" frameY="0" frameWidth="237" frameHeight="220"/>
+	<SubTexture name="faris up0000" x="30" y="524" width="154" height="310" frameX="-20" frameY="0" frameWidth="195" frameHeight="311"/>
+	<SubTexture name="faris up0001" x="30" y="524" width="154" height="310" frameX="-20" frameY="0" frameWidth="195" frameHeight="311"/>
+	<SubTexture name="faris up0002" x="214" y="524" width="174" height="281" frameX="-10" frameY="-30" frameWidth="195" frameHeight="311"/>
+	<SubTexture name="faris up0003" x="214" y="524" width="174" height="281" frameX="-10" frameY="-30" frameWidth="195" frameHeight="311"/>
+	<SubTexture name="faris up0004" x="418" y="524" width="195" height="250" frameX="0" frameY="-60" frameWidth="195" frameHeight="311"/>
+	<SubTexture name="faris up0005" x="418" y="524" width="195" height="250" frameX="0" frameY="-60" frameWidth="195" frameHeight="311"/>
+	<SubTexture name="faris up0006" x="418" y="524" width="195" height="250" frameX="0" frameY="-60" frameWidth="195" frameHeight="311"/>
+	<SubTexture name="faris up0007" x="418" y="524" width="195" height="250" frameX="0" frameY="-60" frameWidth="195" frameHeight="311"/>
+	<SubTexture name="faris up0008" x="418" y="524" width="195" height="250" frameX="0" frameY="-60" frameWidth="195" frameHeight="311"/>
+	<SubTexture name="faris up0009" x="418" y="524" width="195" height="250" frameX="0" frameY="-60" frameWidth="195" frameHeight="311"/>
+	<SubTexture name="faris up0010" x="418" y="524" width="195" height="250" frameX="0" frameY="-60" frameWidth="195" frameHeight="311"/>
+	<SubTexture name="faris up0011" x="418" y="524" width="195" height="250" frameX="0" frameY="-60" frameWidth="195" frameHeight="311"/>
+	<SubTexture name="faris up0012" x="418" y="524" width="195" height="250" frameX="0" frameY="-60" frameWidth="195" frameHeight="311"/>
+	<SubTexture name="faris up0013" x="418" y="524" width="195" height="250" frameX="0" frameY="-60" frameWidth="195" frameHeight="311"/>
+	<SubTexture name="faris up0014" x="418" y="524" width="195" height="250" frameX="0" frameY="-60" frameWidth="195" frameHeight="311"/>
+</TextureAtlas>

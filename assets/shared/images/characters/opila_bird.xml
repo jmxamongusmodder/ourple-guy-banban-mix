@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="opila bird.png"><SubTexture name="opila bird idle0000" x="0" y="0" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird idle0001" x="0" y="458" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird idle0002" x="960" y="0" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird idle0003" x="960" y="458" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird idle0004" x="0" y="916" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird idle0005" x="960" y="916" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird idle0006" x="0" y="1374" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird idle0007" x="960" y="1374" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird idle0008" x="1920" y="0" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird idle0009" x="1920" y="458" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird idle0010" x="1920" y="916" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird idle0011" x="1920" y="1374" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird walk0000" x="0" y="1832" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird walk0001" x="960" y="1832" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird cough0000" x="1920" y="1832" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird cough0001" x="0" y="2290" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird cough0002" x="960" y="2290" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird down0000" x="1920" y="2290" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird down0001" x="2880" y="0" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird down0002" x="2880" y="458" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird down0003" x="2880" y="916" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird down0004" x="2880" y="1374" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird right0000" x="2880" y="1832" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird right0001" x="2880" y="2290" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird right0002" x="0" y="2748" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird right0003" x="960" y="2748" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird right0004" x="1920" y="2748" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird up0000" x="2880" y="2748" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird up0001" x="0" y="3206" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird up0002" x="960" y="3206" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird up0003" x="1920" y="3206" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird up0004" x="2880" y="3206" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird left0000" x="3840" y="0" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird left0001" x="3840" y="458" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird left0002" x="3840" y="916" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird left0003" x="3840" y="1374" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+<SubTexture name="opila bird left0004" x="3840" y="1832" width="960" height="458" frameX="0" frameY="0" frameWidth="960" frameHeight="458" />
+</TextureAtlas>

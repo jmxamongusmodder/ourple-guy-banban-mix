@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="drone_sprites.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down drone0000" x="30" y="30" width="435" height="235" frameX="0" frameY="-41" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="down drone0001" x="30" y="30" width="435" height="235" frameX="0" frameY="-41" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="down drone0002" x="495" y="30" width="377" height="262" frameX="-21" frameY="0" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="down drone0003" x="495" y="30" width="377" height="262" frameX="-21" frameY="0" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="down drone0004" x="902" y="30" width="395" height="245" frameX="-7" frameY="-11" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="down drone0005" x="902" y="30" width="395" height="245" frameX="-7" frameY="-11" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="down drone0006" x="1327" y="30" width="392" height="242" frameX="-8" frameY="-14" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="down drone0007" x="1327" y="30" width="392" height="242" frameX="-8" frameY="-14" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="down drone0008" x="1327" y="30" width="392" height="242" frameX="-8" frameY="-14" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="down drone0009" x="1327" y="30" width="392" height="242" frameX="-8" frameY="-14" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="down drone0010" x="1327" y="30" width="392" height="242" frameX="-8" frameY="-14" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="down drone0011" x="1327" y="30" width="392" height="242" frameX="-8" frameY="-14" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="down drone0012" x="1327" y="30" width="392" height="242" frameX="-8" frameY="-14" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="down drone0013" x="1327" y="30" width="392" height="242" frameX="-8" frameY="-14" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="down drone0014" x="1327" y="30" width="392" height="242" frameX="-8" frameY="-14" frameWidth="435" frameHeight="276"/>
+	<SubTexture name="drone invisible0000" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0001" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0002" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0003" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0004" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0005" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0006" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0007" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0008" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0009" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0010" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0011" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0012" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0013" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0014" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0015" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0016" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0017" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0018" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0019" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0020" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0021" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0022" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0023" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0024" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0025" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0026" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0027" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone invisible0028" x="30" y="322" width="380" height="219"/>
+	<SubTexture name="drone sprite0000" x="440" y="322" width="322" height="185"/>
+	<SubTexture name="idle drone0000" x="792" y="322" width="380" height="219" frameX="0" frameY="-11" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0001" x="792" y="322" width="380" height="219" frameX="0" frameY="-10" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0002" x="792" y="322" width="380" height="219" frameX="0" frameY="-10" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0003" x="792" y="322" width="380" height="219" frameX="0" frameY="-9" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0004" x="792" y="322" width="380" height="219" frameX="0" frameY="-9" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0005" x="792" y="322" width="380" height="219" frameX="0" frameY="-8" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0006" x="792" y="322" width="380" height="219" frameX="0" frameY="-6" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0007" x="792" y="322" width="380" height="219" frameX="0" frameY="-5" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0008" x="792" y="322" width="380" height="219" frameX="0" frameY="-3" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0009" x="792" y="322" width="380" height="219" frameX="0" frameY="-3" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0010" x="792" y="322" width="380" height="219" frameX="0" frameY="-2" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0011" x="792" y="322" width="380" height="219" frameX="0" frameY="-1" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0012" x="792" y="322" width="380" height="219" frameX="0" frameY="-1" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0013" x="792" y="322" width="380" height="219" frameX="0" frameY="0" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0014" x="792" y="322" width="380" height="219" frameX="0" frameY="0" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0015" x="792" y="322" width="380" height="219" frameX="0" frameY="0" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0016" x="792" y="322" width="380" height="219" frameX="0" frameY="-1" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0017" x="792" y="322" width="380" height="219" frameX="0" frameY="-1" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0018" x="792" y="322" width="380" height="219" frameX="0" frameY="-2" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0019" x="792" y="322" width="380" height="219" frameX="0" frameY="-3" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0020" x="792" y="322" width="380" height="219" frameX="0" frameY="-3" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0021" x="792" y="322" width="380" height="219" frameX="0" frameY="-5" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0022" x="792" y="322" width="380" height="219" frameX="0" frameY="-6" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0023" x="792" y="322" width="380" height="219" frameX="0" frameY="-8" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0024" x="792" y="322" width="380" height="219" frameX="0" frameY="-9" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0025" x="792" y="322" width="380" height="219" frameX="0" frameY="-9" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0026" x="792" y="322" width="380" height="219" frameX="0" frameY="-10" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0027" x="792" y="322" width="380" height="219" frameX="0" frameY="-10" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="idle drone0028" x="792" y="322" width="380" height="219" frameX="0" frameY="-11" frameWidth="380" frameHeight="230"/>
+	<SubTexture name="left drone0000" x="1202" y="322" width="413" height="296" frameX="-6" frameY="0" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="left drone0001" x="1202" y="322" width="413" height="296" frameX="-6" frameY="0" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="left drone0002" x="30" y="648" width="441" height="293" frameX="0" frameY="-18" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="left drone0003" x="30" y="648" width="441" height="293" frameX="0" frameY="-18" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="left drone0004" x="501" y="648" width="415" height="287" frameX="-21" frameY="-14" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="left drone0005" x="501" y="648" width="415" height="287" frameX="-21" frameY="-14" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="left drone0006" x="946" y="648" width="415" height="286" frameX="-21" frameY="-14" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="left drone0007" x="946" y="648" width="415" height="286" frameX="-21" frameY="-14" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="left drone0008" x="946" y="648" width="415" height="286" frameX="-21" frameY="-14" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="left drone0009" x="946" y="648" width="415" height="286" frameX="-21" frameY="-14" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="left drone0010" x="946" y="648" width="415" height="286" frameX="-21" frameY="-14" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="left drone0011" x="946" y="648" width="415" height="286" frameX="-21" frameY="-14" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="left drone0012" x="946" y="648" width="415" height="286" frameX="-21" frameY="-14" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="left drone0013" x="946" y="648" width="415" height="286" frameX="-21" frameY="-14" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="left drone0014" x="946" y="648" width="415" height="286" frameX="-21" frameY="-14" frameWidth="441" frameHeight="311"/>
+	<SubTexture name="right drone0000" x="1391" y="648" width="461" height="281" frameX="-16" frameY="0" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="right drone0001" x="1391" y="648" width="461" height="281" frameX="-16" frameY="0" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="right drone0002" x="30" y="971" width="410" height="274" frameX="-5" frameY="-10" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="right drone0003" x="30" y="971" width="410" height="274" frameX="-5" frameY="-10" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="right drone0004" x="470" y="971" width="401" height="257" frameX="-1" frameY="-18" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="right drone0005" x="470" y="971" width="401" height="257" frameX="-1" frameY="-18" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="right drone0006" x="901" y="971" width="399" height="252" frameX="0" frameY="-19" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="right drone0007" x="901" y="971" width="399" height="252" frameX="0" frameY="-19" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="right drone0008" x="901" y="971" width="399" height="252" frameX="0" frameY="-19" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="right drone0009" x="901" y="971" width="399" height="252" frameX="0" frameY="-19" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="right drone0010" x="901" y="971" width="399" height="252" frameX="0" frameY="-19" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="right drone0011" x="901" y="971" width="399" height="252" frameX="0" frameY="-19" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="right drone0012" x="901" y="971" width="399" height="252" frameX="0" frameY="-19" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="right drone0013" x="901" y="971" width="399" height="252" frameX="0" frameY="-19" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="right drone0014" x="901" y="971" width="399" height="252" frameX="0" frameY="-19" frameWidth="477" frameHeight="284"/>
+	<SubTexture name="up drone0000" x="1330" y="971" width="362" height="282" frameX="-26" frameY="0" frameWidth="420" frameHeight="284"/>
+	<SubTexture name="up drone0001" x="1330" y="971" width="362" height="282" frameX="-26" frameY="0" frameWidth="420" frameHeight="284"/>
+	<SubTexture name="up drone0002" x="30" y="1283" width="420" height="237" frameX="0" frameY="-47" frameWidth="420" frameHeight="284"/>
+	<SubTexture name="up drone0003" x="30" y="1283" width="420" height="237" frameX="0" frameY="-47" frameWidth="420" frameHeight="284"/>
+	<SubTexture name="up drone0004" x="480" y="1283" width="402" height="258" frameX="-8" frameY="-25" frameWidth="420" frameHeight="284"/>
+	<SubTexture name="up drone0005" x="480" y="1283" width="402" height="258" frameX="-8" frameY="-25" frameWidth="420" frameHeight="284"/>
+	<SubTexture name="up drone0006" x="912" y="1283" width="401" height="255" frameX="-9" frameY="-26" frameWidth="420" frameHeight="284"/>
+	<SubTexture name="up drone0007" x="912" y="1283" width="401" height="255" frameX="-9" frameY="-26" frameWidth="420" frameHeight="284"/>
+	<SubTexture name="up drone0008" x="912" y="1283" width="401" height="255" frameX="-9" frameY="-26" frameWidth="420" frameHeight="284"/>
+	<SubTexture name="up drone0009" x="912" y="1283" width="401" height="255" frameX="-9" frameY="-26" frameWidth="420" frameHeight="284"/>
+	<SubTexture name="up drone0010" x="912" y="1283" width="401" height="255" frameX="-9" frameY="-26" frameWidth="420" frameHeight="284"/>
+	<SubTexture name="up drone0011" x="912" y="1283" width="401" height="255" frameX="-9" frameY="-26" frameWidth="420" frameHeight="284"/>
+	<SubTexture name="up drone0012" x="912" y="1283" width="401" height="255" frameX="-9" frameY="-26" frameWidth="420" frameHeight="284"/>
+	<SubTexture name="up drone0013" x="912" y="1283" width="401" height="255" frameX="-9" frameY="-26" frameWidth="420" frameHeight="284"/>
+	<SubTexture name="up drone0014" x="912" y="1283" width="401" height="255" frameX="-9" frameY="-26" frameWidth="420" frameHeight="284"/>
+</TextureAtlas>

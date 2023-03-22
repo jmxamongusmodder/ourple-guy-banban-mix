@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-17,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ghepo idle"
+		},
+		{
+			"offsets": [
+				210,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ghepo left"
+		},
+		{
+			"offsets": [
+				57,
+				-235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ghepo down"
+		},
+		{
+			"offsets": [
+				-51,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ghepo up"
+		},
+		{
+			"offsets": [
+				-42,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ghepo right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ghepo",
+	"position": [
+		-50,
+		210
+	],
+	"healthicon": "ghepo",
+	"flip_x": false,
+	"healthbar_colors": [
+		98,
+		9,
+		165
+	],
+	"camera_position": [
+		-270,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
