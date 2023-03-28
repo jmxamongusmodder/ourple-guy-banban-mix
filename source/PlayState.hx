@@ -2459,7 +2459,7 @@ class PlayState extends MusicBeatState
 				susLength = susLength / Conductor.stepCrochet;
 				unspawnNotes.push(swagNote);
 
-				var floorSus:Int = Math.round(swagNote.sustainLength / Conductor.stepCrochet;
+				var floorSus:Int = Math.round(swagNote.sustainLength / Conductor.stepCrochet);
 				if(floorSus > 0) {
 					if(floorSus == 1) floorSus++;
 					for (susNote in 0...floorSus)
