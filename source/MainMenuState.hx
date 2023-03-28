@@ -94,7 +94,7 @@ class MainMenuState extends MusicBeatState
 		magenta.color = 0xFFfd719b;
 		add(magenta);
 
-		logoBl = new FlxSprite(-102, -100);
+		logoBl = new FlxSprite(-125, 100);
 		logoBl.frames = Paths.getSparrowAtlas('logonew');
 		logoBl.antialiasing = ClientPrefs.globalAntialiasing;
 		logoBl.animation.addByPrefix('bump', 'logobop', 24, false);

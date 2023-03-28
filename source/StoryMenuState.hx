@@ -56,7 +56,10 @@ class StoryMenuState extends MusicBeatState
 
 		PlayState.isStoryMode = true;
 		WeekData.reloadWeekFiles(true);
-		if(curWeek >= WeekData.weeksList.length) curWeek = 0;
+		if(curWeek >= WeekData.weeksList.length) {
+                    curWeek = 0;
+                    trace("how da frick??!");
+                }
 		persistentUpdate = persistentDraw = true;
 
 		scoreText = new FlxText(10, 10, 0, "SCORE: placeholder", 36);
