@@ -34,7 +34,6 @@ class MainMenuState extends MusicBeatState
 	
 	var optionShit:Array<String> = [
 		'story_mode',
-                'awards',
 		'credits',
 		'options'
 	];
@@ -43,6 +42,7 @@ class MainMenuState extends MusicBeatState
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
 	var debugKeys:Array<FlxKey>;
+        var logoBl:FlxSprite;
 
 	override function create()
 	{
@@ -93,6 +93,13 @@ class MainMenuState extends MusicBeatState
 		magenta.antialiasing = ClientPrefs.globalAntialiasing;
 		magenta.color = 0xFFfd719b;
 		add(magenta);
+
+		logoBl = new FlxSprite(-102, -100);
+		logoBl.frames = Paths.getSparrowAtlas('logonew');
+		logoBl.antialiasing = ClientPrefs.globalAntialiasing;
+		logoBl.animation.addByPrefix('bump', 'logobop', 24, false);
+		logoBl.animation.play('bump');
+		logoBl.updateHitbox();
 		
 		// magenta.scrollFactor.set();
 
@@ -127,9 +134,10 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.camera.follow(camFollowPos, null, 1);
 
-		var versionShit:FlxText = new FlxText(12, FlxG.height - 24, 0, "Garten of banban v" + Application.current.meta.get('version'), 12);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 24, 0, "Garten of banban v. " + Application.current.meta.get('version'), 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+                add(logoBl);
 		add(versionShit);
 
 		// NG.core.calls.event.logEvent('swag').send();

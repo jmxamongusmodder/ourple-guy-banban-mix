@@ -81,7 +81,7 @@ using StringTools;
 
 class PlayState extends MusicBeatState
 {
-	public static var STRUM_X = 42;
+	public static var STRUM_X = 48.5;
 	public static var STRUM_X_MIDDLESCROLL = -278;
 
 	public static var ratingStuff:Array<Dynamic> = [
@@ -93,7 +93,7 @@ class PlayState extends MusicBeatState
 		['Funny number', 0.7], //69%
 		['Hmmm', 0.8], //From 70% to 79%
 		['Doin good', 0.9], //From 80% to 89%
-		['Your farris!', 1], //From 90% to 99%
+		['Damn!', 1], //From 90% to 99%
 		['HIGH QUALITY', 1] //The value on this one isn't used actually, since Perfect is always "1"
 	];
 
@@ -410,10 +410,13 @@ class PlayState extends MusicBeatState
 		persistentDraw = true;
 
 		if (SONG == null)
-			SONG = Song.loadFromJson('tutorial');
+			SONG = Song.loadFromJson('banban');
 
 		Conductor.mapBPMChanges(SONG);
 		Conductor.changeBPM(SONG.bpm);
+
+		GameOverSubstate.resetVariables();
+		var songName:String = Paths.formatToSongPath(SONG.song);
 
 		#if desktop
 		storyDifficultyText = CoolUtil.difficulties[storyDifficulty];
@@ -429,11 +432,8 @@ class PlayState extends MusicBeatState
 		}
 
 		// String for when the game is paused
-		detailsPausedText = "Paused - " + detailsText;
+		detailsPausedText = "Paused - " + songName + " - " + detailsText;
 		#end
-
-		GameOverSubstate.resetVariables();
-		var songName:String = Paths.formatToSongPath(SONG.song);
 
 		curStage = SONG.stage;
 		//trace('stage is: ' + curStage);
