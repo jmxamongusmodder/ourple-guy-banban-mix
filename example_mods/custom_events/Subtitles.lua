@@ -13,10 +13,3 @@ function onCreate()
 	addLuaText('subtitle')
 	setTextSize('subtitle',60)
 end
-
-function onUpdate()
-	fade += 1
-	if fade > 200 then
-		setTextString('subtitle', '')
-	end
-end 
