@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jumbo_josh_biteform2.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="iambuffjoshbrah0000" x="10" y="10" width="259" height="285" frameX="-32" frameY="-28" frameWidth="323" frameHeight="342"/>
+	<SubTexture name="iambuffjoshbrah0001" x="10" y="10" width="259" height="285" frameX="-32" frameY="-28" frameWidth="323" frameHeight="342"/>
+	<SubTexture name="iambuffjoshbrah0002" x="284" y="10" width="323" height="342"/>
+	<SubTexture name="iambuffjoshbrah0003" x="284" y="10" width="323" height="342"/>
+	<SubTexture name="iambuffjoshbrah0004" x="622" y="10" width="201" height="277" frameX="-61" frameY="-32" frameWidth="323" frameHeight="342"/>
+	<SubTexture name="jumbo down0000" x="838" y="10" width="624" height="401" frameX="0" frameY="0" frameWidth="672" frameHeight="401"/>
+	<SubTexture name="jumbo down0001" x="838" y="10" width="624" height="401" frameX="0" frameY="0" frameWidth="672" frameHeight="401"/>
+	<SubTexture name="jumbo down0002" x="1477" y="10" width="624" height="345" frameX="0" frameY="-56" frameWidth="672" frameHeight="401"/>
+	<SubTexture name="jumbo down0003" x="1477" y="10" width="624" height="345" frameX="0" frameY="-56" frameWidth="672" frameHeight="401"/>
+	<SubTexture name="jumbo down0004" x="2116" y="10" width="624" height="291" frameX="0" frameY="-110" frameWidth="672" frameHeight="401"/>
+	<SubTexture name="jumbo down0005" x="2116" y="10" width="624" height="291" frameX="0" frameY="-110" frameWidth="672" frameHeight="401"/>
+	<SubTexture name="jumbo down0006" x="2755" y="10" width="632" height="264" frameX="0" frameY="-137" frameWidth="672" frameHeight="401"/>
+	<SubTexture name="jumbo down0007" x="2755" y="10" width="632" height="264" frameX="0" frameY="-137" frameWidth="672" frameHeight="401"/>
+	<SubTexture name="jumbo down0008" x="3402" y="10" width="672" height="234" frameX="0" frameY="-167" frameWidth="672" frameHeight="401"/>
+	<SubTexture name="jumbo down0009" x="3402" y="10" width="672" height="234" frameX="0" frameY="-167" frameWidth="672" frameHeight="401"/>
+	<SubTexture name="jumbo down0010" x="4089" y="10" width="645" height="243" frameX="0" frameY="-158" frameWidth="672" frameHeight="401"/>
+	<SubTexture name="jumbo down0011" x="4089" y="10" width="645" height="243" frameX="0" frameY="-158" frameWidth="672" frameHeight="401"/>
+	<SubTexture name="jumbo idle0000" x="4749" y="10" width="393" height="427"/>
+	<SubTexture name="jumbo idle0001" x="5157" y="10" width="393" height="417" frameX="0" frameY="-5" frameWidth="393" frameHeight="427"/>
+	<SubTexture name="jumbo idle0002" x="5565" y="10" width="393" height="405" frameX="0" frameY="-11" frameWidth="393" frameHeight="427"/>
+	<SubTexture name="jumbo idle0003" x="5973" y="10" width="393" height="373" frameX="0" frameY="-27" frameWidth="393" frameHeight="427"/>
+	<SubTexture name="jumbo idle0004" x="6381" y="10" width="393" height="340" frameX="0" frameY="-43" frameWidth="393" frameHeight="427"/>
+	<SubTexture name="jumbo idle0005" x="6789" y="10" width="392" height="299" frameX="0" frameY="-64" frameWidth="393" frameHeight="427"/>
+	<SubTexture name="jumbo idle0006" x="7196" y="10" width="393" height="259" frameX="0" frameY="-84" frameWidth="393" frameHeight="427"/>
+	<SubTexture name="jumbo idle0007" x="7604" y="10" width="393" height="211" frameX="0" frameY="-108" frameWidth="393" frameHeight="427"/>
+	<SubTexture name="jumbo idle0008" x="10" y="452" width="393" height="163" frameX="0" frameY="-132" frameWidth="393" frameHeight="427"/>
+	<SubTexture name="jumbo idle0009" x="418" y="452" width="393" height="296" frameX="0" frameY="-65" frameWidth="393" frameHeight="427"/>
+	<SubTexture name="jumbo idle0010" x="4749" y="10" width="393" height="427"/>
+	<SubTexture name="jumbo idle0011" x="4749" y="10" width="393" height="427"/>
+	<SubTexture name="jumbo left0000" x="826" y="452" width="786" height="420"/>
+	<SubTexture name="jumbo left0001" x="826" y="452" width="786" height="420"/>
+	<SubTexture name="jumbo left0002" x="1627" y="452" width="703" height="402" frameX="0" frameY="-18" frameWidth="786" frameHeight="420"/>
+	<SubTexture name="jumbo left0003" x="1627" y="452" width="703" height="402" frameX="0" frameY="-18" frameWidth="786" frameHeight="420"/>
+	<SubTexture name="jumbo left0004" x="2345" y="452" width="618" height="383" frameX="0" frameY="-37" frameWidth="786" frameHeight="420"/>
+	<SubTexture name="jumbo left0005" x="2345" y="452" width="618" height="383" frameX="0" frameY="-37" frameWidth="786" frameHeight="420"/>
+	<SubTexture name="jumbo left0006" x="2978" y="452" width="419" height="339" frameX="0" frameY="-81" frameWidth="786" frameHeight="420"/>
+	<SubTexture name="jumbo left0007" x="2978" y="452" width="419" height="339" frameX="0" frameY="-81" frameWidth="786" frameHeight="420"/>
+	<SubTexture name="jumbo left0008" x="3412" y="452" width="290" height="281" frameX="0" frameY="-139" frameWidth="786" frameHeight="420"/>
+	<SubTexture name="jumbo left0009" x="3717" y="452" width="211" height="248" frameX="0" frameY="-172" frameWidth="786" frameHeight="420"/>
+	<SubTexture name="jumbo right0000" x="3943" y="452" width="608" height="331" frameX="0" frameY="0" frameWidth="608" frameHeight="332"/>
+	<SubTexture name="jumbo right0001" x="3943" y="452" width="608" height="331" frameX="0" frameY="0" frameWidth="608" frameHeight="332"/>
+	<SubTexture name="jumbo right0002" x="4566" y="452" width="568" height="315" frameX="-40" frameY="-16" frameWidth="608" frameHeight="332"/>
+	<SubTexture name="jumbo right0003" x="4566" y="452" width="568" height="315" frameX="-40" frameY="-16" frameWidth="608" frameHeight="332"/>
+	<SubTexture name="jumbo right0004" x="5149" y="452" width="487" height="294" frameX="-121" frameY="-37" frameWidth="608" frameHeight="332"/>
+	<SubTexture name="jumbo right0005" x="5149" y="452" width="487" height="294" frameX="-121" frameY="-37" frameWidth="608" frameHeight="332"/>
+	<SubTexture name="jumbo right0006" x="5651" y="452" width="414" height="272" frameX="-194" frameY="-59" frameWidth="608" frameHeight="332"/>
+	<SubTexture name="jumbo right0007" x="5651" y="452" width="414" height="272" frameX="-194" frameY="-59" frameWidth="608" frameHeight="332"/>
+	<SubTexture name="jumbo right0008" x="6080" y="452" width="338" height="239" frameX="-270" frameY="-93" frameWidth="608" frameHeight="332"/>
+	<SubTexture name="jumbo right0009" x="6433" y="452" width="425" height="245" frameX="-183" frameY="-87" frameWidth="608" frameHeight="332"/>
+	<SubTexture name="jumbo up0000" x="6873" y="452" width="350" height="434" frameX="0" frameY="0" frameWidth="350" frameHeight="435"/>
+	<SubTexture name="jumbo up0001" x="6873" y="452" width="350" height="434" frameX="0" frameY="0" frameWidth="350" frameHeight="435"/>
+	<SubTexture name="jumbo up0002" x="7238" y="452" width="350" height="348" frameX="0" frameY="-87" frameWidth="350" frameHeight="435"/>
+	<SubTexture name="jumbo up0003" x="7238" y="452" width="350" height="348" frameX="0" frameY="-87" frameWidth="350" frameHeight="435"/>
+	<SubTexture name="jumbo up0004" x="7603" y="452" width="350" height="247" frameX="0" frameY="-187" frameWidth="350" frameHeight="435"/>
+	<SubTexture name="jumbo up0005" x="7603" y="452" width="350" height="247" frameX="0" frameY="-187" frameWidth="350" frameHeight="435"/>
+	<SubTexture name="jumbo up0006" x="10" y="901" width="350" height="298" frameX="0" frameY="-137" frameWidth="350" frameHeight="435"/>
+	<SubTexture name="jumbo up0007" x="10" y="901" width="350" height="298" frameX="0" frameY="-137" frameWidth="350" frameHeight="435"/>
+	<SubTexture name="jumbo up0008" x="375" y="901" width="350" height="332" frameX="0" frameY="-102" frameWidth="350" frameHeight="435"/>
+</TextureAtlas>
