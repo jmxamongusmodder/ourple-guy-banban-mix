@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				210,
+				-260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "jumbo idle"
+		},
+		{
+			"offsets": [
+				490,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "jumbo down"
+		},
+		{
+			"offsets": [
+				130,
+				-32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "jumbo up"
+		},
+		{
+			"offsets": [
+				110,
+				-270
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "jumbo right"
+		},
+		{
+			"offsets": [
+				240,
+				-260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "jumbo left"
+		},
+		{
+			"offsets": [
+				120,
+				-336
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "omg",
+			"loop": false,
+			"name": "iambuffjoshbrah"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jumbo_josh_biteform2",
+	"position": [
+		100,
+		-130
+	],
+	"healthicon": "jumbo_josh",
+	"flip_x": true,
+	"healthbar_colors": [
+		120,
+		186,
+		47
+	],
+	"camera_position": [
+		-700,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 2.2
+}

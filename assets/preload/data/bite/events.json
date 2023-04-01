@@ -52,12 +52,52 @@
 				]
 			],
 			[
+				5142.85714285714,
+				[
+					[
+						"Subtitles",
+						"okayy",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				5285.71428571429,
+				[
+					[
+						"Subtitles",
+						"okayyy",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				5428.57142857143,
+				[
+					[
+						"Subtitles",
+						"okayyy so we",
+						"FFFFF"
+					]
+				]
+			],
+			[
 				5500,
 				[
 					[
 						"Subtitles",
-						"so we're",
-						"FFFFFF"
+						"okayyy so we'r",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				5571.42857142857,
+				[
+					[
+						"Subtitles",
+						"okayyy so we're",
+						"FFFFF"
 					]
 				]
 			],
@@ -96,8 +136,18 @@
 				[
 					[
 						"Subtitles",
+						"Garten o",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				6928.57142857143,
+				[
+					[
+						"Subtitles",
 						"Garten of",
-						"FFFFFF"
+						"FFFFF"
 					]
 				]
 			],
@@ -286,8 +336,28 @@
 				[
 					[
 						"Subtitles",
-						"Ban",
-						"FFFFFF"
+						"Garden of Ban",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				13714.2857142857,
+				[
+					[
+						"Subtitles",
+						"Garden of Ban B",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				13785.7142857143,
+				[
+					[
+						"Subtitles",
+						"Garden of Ban Ba",
+						"FFFFF"
 					]
 				]
 			],
@@ -296,8 +366,28 @@
 				[
 					[
 						"Subtitles",
-						"Ban Ban",
-						"FFFFFFF"
+						"Garden of Ban Ban",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				13928.5714285714,
+				[
+					[
+						"Subtitles",
+						"Garden of Ban Ban i",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				14000,
+				[
+					[
+						"Subtitles",
+						"Garden of Ban Ban is",
+						"FFFFF"
 					]
 				]
 			],
@@ -306,8 +396,18 @@
 				[
 					[
 						"Subtitles",
-						"Ban Ban is",
-						"FFFFFFF"
+						"Garden of Ban Ban is.",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				14142.8571428571,
+				[
+					[
+						"Subtitles",
+						"...",
+						"FFFFF"
 					]
 				]
 			],
@@ -316,8 +416,48 @@
 				[
 					[
 						"Subtitles",
-						"here to keep you",
-						"FFFFFF"
+						"Here to keep",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				14428.5714285714,
+				[
+					[
+						"Subtitles",
+						"Here to keep y",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				14571.4285714286,
+				[
+					[
+						"Subtitles",
+						"Here to keep yo",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				14714.2857142857,
+				[
+					[
+						"Subtitles",
+						"Here to keep you",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				14785.7142857143,
+				[
+					[
+						"Subtitles",
+						"Here to keep you...",
+						"FFFFF"
 					]
 				]
 			],
@@ -406,8 +546,38 @@
 				[
 					[
 						"Subtitles",
+						"why are you s",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				17500,
+				[
+					[
+						"Subtitles",
 						"why are you so",
-						"FFFFFFF"
+						"FFFFF"
+					]
+				]
+			],
+			[
+				17642.8571428571,
+				[
+					[
+						"Subtitles",
+						"why are you so v",
+						"FFFFF"
+					]
+				]
+			],
+			[
+				17714.2857142857,
+				[
+					[
+						"Subtitles",
+						"why are you so ve",
+						"FFFFF"
 					]
 				]
 			],
@@ -438,6 +608,61 @@
 						"Subtitles",
 						"",
 						"FFFFFFF"
+					]
+				]
+			],
+			[
+				18428.5714285714,
+				[
+					[
+						"Flash Camera",
+						"1.5",
+						""
+					],
+					[
+						"changeCamShader",
+						"camHUD",
+						"chromaticAbber"
+					],
+					[
+						"changeCamShader",
+						"camGame",
+						"chromaticAbber"
+					]
+				]
+			],
+			[
+				36928.5714285714,
+				[
+					[
+						"changeCamShader",
+						"camGame",
+						"none"
+					],
+					[
+						"Flash Camera",
+						"1.5",
+						""
+					],
+					[
+						"changeCamShader",
+						"camHUD",
+						"none"
+					]
+				]
+			],
+			[
+				37000,
+				[
+					[
+						"Flash Camera",
+						"1.5",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"1.3"
 					]
 				]
 			],
@@ -933,6 +1158,176 @@
 						"Change Character",
 						"Dad",
 						"jumbo_josh"
+					]
+				]
+			],
+			[
+				185214.285714285,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Jumbo_Joshppp"
+					],
+					[
+						"Flash Camera",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				187928.571428571,
+				[
+					[
+						"Play Animation",
+						"omg",
+						"dad"
+					],
+					[
+						"Subtitles",
+						"",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				188000,
+				[
+					[
+						"Subtitles",
+						"WHAT",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				188428.571428571,
+				[
+					[
+						"Subtitles",
+						"WHAT T",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				188500,
+				[
+					[
+						"Subtitles",
+						"WHAT TT",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				188571.428571428,
+				[
+					[
+						"Subtitles",
+						"WHAT TTT",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				188642.857142857,
+				[
+					[
+						"Subtitles",
+						"WHAT TTTH",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				188714.285714285,
+				[
+					[
+						"Subtitles",
+						"WHAT TTTHE",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				188928.571428571,
+				[
+					[
+						"Subtitles",
+						"WHAT TTTHE FU",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				189000,
+				[
+					[
+						"Subtitles",
+						"WHAT TTTHE FUC",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				189071.428571428,
+				[
+					[
+						"Subtitles",
+						"WHAT TTTHE FUCK",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				189214.285714285,
+				[
+					[
+						"Subtitles",
+						"WHAT TTTHE FUCKIN",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				189428.571428571,
+				[
+					[
+						"Subtitles",
+						"WHAT TTTHE FUCKING",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				189714.285714285,
+				[
+					[
+						"Subtitles",
+						"WHAT TTTHE FUCKING FUC",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				189857.142857142,
+				[
+					[
+						"Subtitles",
+						"WHAT TTTHE FUCKING FUCK?!",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				190285.714285714,
+				[
+					[
+						"Subtitles",
+						"       ",
+						""
 					]
 				]
 			],
